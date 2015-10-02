@@ -65,8 +65,7 @@
             <!-- <url>http://anonsvn.icefaces.org/repo/maven2/snapshots</url> -->
             <name>ICEFaces Repo</name>
         </repository>
-        <!-- <repository> <id>Icefaces-snapshots</id> <url>http://anonsvn.icefaces.org/repo/maven2/snapshots</url>
-        <name>ICEFaces Repo</name> </repository> -->
+        
         <repository>
             <id>prime-repo</id>
             <name>PrimeFaces Maven Repository</name>
