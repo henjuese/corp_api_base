@@ -11,3 +11,4 @@ test
 
 6.local2
 6.1.local2.2
+7.ls
